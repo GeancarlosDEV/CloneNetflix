@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/GeanCarlosBJJ/CloneNetflix.git">
+  <a href="https://github.com/GeancarlosDEV/CloneNetflix">
     <img 
          src='/img/superflix.png'
          alt="Interface Netflix" 
